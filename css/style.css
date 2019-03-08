@@ -13,6 +13,13 @@ body {
 .navbar-brand{
     padding: 0;
 }
-.nav_pad{
-    margin-right: 10px;
+
+.nav_tabs_flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.margin_right > li{
+    margin-right: 40px;
 }
