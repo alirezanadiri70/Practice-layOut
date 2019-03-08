@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 body {
     background-color:#bfbfbf;
+    font-style: font-family: 'Libre Baskerville', serif;
 }
 .row{
     /* background-color: */
@@ -20,6 +22,6 @@ body {
     justify-content: flex-end;
 }
 
-.margin_right > li{
+.margin_right > .tabs{
     margin-right: 40px;
 }
