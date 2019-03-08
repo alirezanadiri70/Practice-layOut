@@ -3,10 +3,7 @@ body {
     background-color:#bfbfbf;
     font-style: font-family: 'Libre Baskerville', serif;
 }
-.row{
-    /* background-color: */
-    height: 100vh;
-}
+
 .img_nav{
     width:50px;
     height:50px;
@@ -24,4 +21,14 @@ body {
 
 .margin_right > .tabs{
     margin-right: 40px;
+}
+.main{
+    background-color: #fff;
+    margin:0px;
+    
+}
+
+.bg-gray{
+    background-color: #737373;
+    height: 200px;
 }
