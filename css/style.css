@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+
 body {
     background-color:#bfbfbf;
-    font-style: font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Baskerville', serif;
+}
+.container{
+    background-color: #fff;
 }
 
 .img_nav{
@@ -22,13 +26,19 @@ body {
 .margin_right > .tabs{
     margin-right: 40px;
 }
-.main{
+ .main{
     background-color: #fff;
-    margin:0px;
+    margin-bottom:10px;
     
 }
 
 .bg-gray{
     background-color: #737373;
     height: 200px;
+    color:white;
+}
+.bg-red{
+    background-color: red;
+    height: 3em;
+    height:200px;
 }
